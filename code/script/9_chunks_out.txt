@@ -1,0 +1,22 @@
+-------------------------------------------------------------
+Generating N-gram For language:  ssw
+-------------------------------------------------------------
+Generating N-gram For language:  eng
+-------------------------------------------------------------
+Generating N-gram For language:  xho
+-------------------------------------------------------------
+Generating N-gram For language:  zul
+-------------------------------------------------------------
+Generating N-gram For language:  tsn
+-------------------------------------------------------------
+Generating N-gram For language:  af
+-------------------------------------------------------------
+Generating N-gram For language:  sot
+-------------------------------------------------------------
+Generating N-gram For language:  tso
+-------------------------------------------------------------
+Generating N-gram For language:  nso
+-------------------------------------------------------------
+Generating N-gram For language:  nbl
+-------------------------------------------------------------
+Generating N-gram For language:  ven
